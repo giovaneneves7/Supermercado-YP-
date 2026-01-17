@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "783396986428",
+    "project_id": "supermercadoype-39edc",
+    "storage_bucket": "supermercadoype-39edc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783396986428:android:5add0c18428c4581596d39",
+        "android_client_info": {
+          "package_name": "br.com.archcloud.ype.app_supermercado_ype"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSh9QegNccYwZ7gCyqLvYvre8PDyN5Dqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783396986428:android:a2b867fa5cb30994596d39",
+        "android_client_info": {
+          "package_name": "br.com.archcloud.ype.supermercado_ype"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSh9QegNccYwZ7gCyqLvYvre8PDyN5Dqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
